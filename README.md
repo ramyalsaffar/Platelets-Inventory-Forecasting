@@ -5,7 +5,7 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-time--series-8CAAE6)
 ![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-006ACC)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-portfolio%20project-blue)
+
 
 An end-to-end machine learning pipeline that forecasts daily hospital platelet demand and turns the forecast into a perishable-inventory ordering policy. It is built and validated on realistic synthetic blood-center data, so the whole repository runs with no private data.
 
